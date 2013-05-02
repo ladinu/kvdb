@@ -1,0 +1,26 @@
+{
+  "name": "kvdb",
+  "version": "0.0.0",
+  "description": "key-value database api with plugable databases",
+  "main": "index.js",
+  "devDependencies": {
+    "mocha":"~1.8.2"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ladinu/kvdb.git"
+  },
+  "keywords": [
+    "kvdb",
+    "key value database",
+    "kv",
+    "database",
+    "db"
+  ],
+  "author": "Ladinu Chandrasinghe",
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
